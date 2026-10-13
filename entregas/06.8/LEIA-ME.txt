@@ -1,0 +1,15 @@
+VSL AUTO EDITOR 06.8 - PACOTE COMPACTO
+
+1. Baixe VSL-Auto-Editor-06.8-compacto.zip e extraia em uma pasta NOVA.
+2. Execute PREPARAR-06.8.bat e selecione o ZIP original da 06.4-estudio.
+   O preparador apenas le o ZIP 06.4 e copia FFmpeg/modelos para a nova pasta.
+   Nao altera o ZIP original nem a pasta da versao antiga.
+3. Execute CONFIGURAR.bat uma vez e depois INICIAR.bat.
+
+Requer Python 3.11 ou superior, com Add Python to PATH.
+A configuracao inicial instala Pillow e NumPy e precisa de internet.
+Os projetos sao salvos localmente no seu computador.
+
+O pacote inclui o codigo da 06.8; os componentes grandes sao reaproveitados
+pelo preparador para evitar outro download de 181 MB.
+As novidades e limitacoes estao em LEIA-ME-06.8.txt dentro do pacote.
